@@ -1,4 +1,3 @@
-
 <div align="center">
   <!-- Animasi Latar Belakang Custom (Robot AI Banner) -->
   <img
@@ -7,14 +6,9 @@
     width="100%"
   />
 
-  <h1>Hi, I'm Sardianto Sihotang 👋</h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3300&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Web+Developer;Information+Systems+Graduate;Data+%7C+AI+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights"
-    alt="Animated typing: Data Analyst, Web Developer, and Information Systems Graduate"
-    width="92%"
-  />
   <br /><br />
 
+  <!-- Badge Kontak Sosial -->
   <a href="https://github.com/sardisihotang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
