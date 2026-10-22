@@ -1,7 +1,12 @@
+
 <div align="center">
   <!-- Animasi Latar Belakang Custom (Robot AI Banner) -->
-  <img src="assets/robot-ai-banner.gif" alt="Animated AI Robot Data Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
-  
+  <img
+    src="./assets/robot-ai-banner.svg"
+    alt="Animated AI Robot Data Banner"
+    width="100%"
+  />
+
   <h1>Hi, I'm Sardianto Sihotang 👋</h1>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3300&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Web+Developer;Information+Systems+Graduate;Data+%7C+AI+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights"
@@ -9,7 +14,7 @@
     width="92%"
   />
   <br /><br />
-  
+
   <a href="https://github.com/sardisihotang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -22,7 +27,7 @@
   <a href="https://discord.com/users/sardi3364">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  
+
   <br /><br />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-10B981?style=flat-square" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Web%20Development-2563EB?style=flat-square" alt="Focus: Data Analytics and Web Development" />
