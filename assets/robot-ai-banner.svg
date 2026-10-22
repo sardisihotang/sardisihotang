@@ -204,4 +204,77 @@
 
   <!-- subtle vignette -->
   <rect width="1600" height="400" fill="none" stroke="#050d1f" stroke-opacity="0.5" stroke-width="2"/>
+
+  
+  <!-- ===== Animated Header Text Overlay ===== -->
+  <!-- Name and typing animation, positioned above the monitors -->
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     text-anchor="middle">
+
+    <!-- Name -->
+    <text x="1050" y="44"
+          font-size="31"
+          font-weight="700"
+          fill="#f8fafc">
+      Hi, I'm Sardianto Sihotang 👋
+    </text>
+
+    <!-- Typing reveal mask -->
+    <defs>
+      <clipPath id="typingMask">
+        <rect x="725" y="54" width="0" height="35">
+          <animate
+            attributeName="width"
+            values="0;650;650;0"
+            keyTimes="0;0.72;0.90;1"
+            dur="4s"
+            repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+    </defs>
+
+    <!-- Animated typing lines -->
+    <g clip-path="url(#typingMask)"
+       fill="#38BDF8"
+       font-size="20"
+       font-weight="600">
+
+      <text x="1050" y="77" opacity="0">
+        Data Analyst | Web Developer
+        <animate attributeName="opacity"
+                 values="1;1;0;0;0"
+                 keyTimes="0;0.249;0.25;0.999;1"
+                 dur="16s"
+                 repeatCount="indefinite"/>
+      </text>
+
+      <text x="1050" y="77" opacity="0">
+        Information Systems Graduate
+        <animate attributeName="opacity"
+                 values="0;0;1;1;0;0"
+                 keyTimes="0;0.249;0.25;0.499;0.5;1"
+                 dur="16s"
+                 repeatCount="indefinite"/>
+      </text>
+
+      <text x="1050" y="77" opacity="0">
+        Data | AI | Machine Learning
+        <animate attributeName="opacity"
+                 values="0;0;1;1;0;0"
+                 keyTimes="0;0.499;0.5;0.749;0.75;1"
+                 dur="16s"
+                 repeatCount="indefinite"/>
+      </text>
+
+      <text x="1050" y="77" opacity="0">
+        Turning Data Into Meaningful Insights
+        <animate attributeName="opacity"
+                 values="0;0;1;1;0"
+                 keyTimes="0;0.749;0.75;0.999;1"
+                 dur="16s"
+                 repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
 </svg>
