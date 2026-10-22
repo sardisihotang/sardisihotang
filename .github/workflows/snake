@@ -1,10 +1,8 @@
 name: Generate Contribution Snake
 
 on:
-  # Daily at 00:15 UTC (07:15 WIB); scheduled runs can be delayed by GitHub.
   schedule:
     - cron: "15 0 * * *"
-  # Allow the first run to be started manually from the Actions tab.
   workflow_dispatch:
 
 permissions:
