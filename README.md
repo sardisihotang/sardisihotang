@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animasi Latar Belakang (Header Banner) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Data Background" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+  <!-- Animasi 2D Suasana Developer/Data (GIF) -->
+  <img src="https://media.giphy.com/media/qgQUggCGVNjoRxO2V6/giphy.gif" alt="Pixel Art Coding Background" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
   
   <h1>Hi, I'm Sardianto Sihotang 👋</h1>
   <img
