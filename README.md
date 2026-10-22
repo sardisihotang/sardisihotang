@@ -10,13 +10,13 @@
   <a href="https://github.com/sardisihotang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/sardianto-sihotang-a44350293?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/sardianto-sihotang/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/](https://www.instagram.com/sardi_sihotang?utm_source=qr&stkn=cnVyeXdrZTNudjI1)">
+  <a href="https://www.instagram.com/sardi_sihotang/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/sardi3364">w
+  <a href="https://discord.com/users/sardi3364">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
