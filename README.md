@@ -1,11 +1,14 @@
 <div align="center">
+  <!-- Animasi Latar Belakang (Header Banner) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Data Background" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+  
   <h1>Hi, I'm Sardianto Sihotang 👋</h1>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3300&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+Web+Developer;Information+Systems+Graduate;Data+%7C+AI+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights"
     alt="Animated typing: Data Analyst, Web Developer, and Information Systems Graduate"
     width="92%"
   />
-  <br />
+  <br /><br />
   
   <a href="https://github.com/sardisihotang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
