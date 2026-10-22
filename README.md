@@ -1,11 +1,8 @@
 <div align="center">
   <!-- Animasi Latar Belakang Custom (Robot AI Banner) -->
-  <img
-    src="./assets/robot-ai-banner.svg"
-    alt="Animated AI Robot Data Banner"
-    width="100%"
-  />
-  <!-- Badge Kontak Sosial -->
+  <img src="./assets/robot-ai-banner.svg" alt="Animated AI Robot Data Banner" width="100%" />
+
+  <!-- Badge Kontak Sosial dirapatkan dengan Banner -->
   <a href="https://github.com/sardisihotang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -18,7 +15,8 @@
   <a href="https://discord.com/users/sardi3364">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
+  <br />
+  <!-- Badge Status dirapatkan dengan Badge Kontak -->
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-10B981?style=flat-square" alt="Open to opportunities" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Web%20Development-2563EB?style=flat-square" alt="Focus: Data Analytics and Web Development" />
 </div>
